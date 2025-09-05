@@ -7,7 +7,7 @@
 			<Creatives>
 				<Creative id="jw-midroll-1" sequence="1" adId="jw-midroll-1">
 					<Linear>
-						<Duration>00:09:06</Duration>
+						<Duration>00:00:09.600</Duration>
 						<MediaFiles>
 							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="2000" scalable="true" maintainAspectRatio="true">
                    https://github.com/marcovandeveen/static-vast-responses/raw/refs/heads/main/mid-roll-9.6s.mp4
